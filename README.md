@@ -1,1 +1,1 @@
-# estafet-blockchain-demo-qa-smoke-test
+# blockchain-demo-qa-smoke-test
